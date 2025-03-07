@@ -6,3 +6,5 @@
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
 ###### written by far org.
+
+[Beyond Mimicry and Binary Limitations of AI](https://farorg.github.io/beyond_mimicry-binary_lim_of_ai/)
