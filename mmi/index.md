@@ -4,7 +4,7 @@
 ###### Data Distributed By FAR With IX system.
 # Modern Measurement for Intelligence
 
-|||
+|Data|Value|
 | - | - |
 |Type |Modernize|
 |Usage|Intelligence|
