@@ -5,7 +5,7 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
-# Resource
+# Resources
 
 ## Modern Measurement for Intelligence
 [Learn More](https://farorg.github.io/mmi)
