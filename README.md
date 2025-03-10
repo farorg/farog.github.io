@@ -10,8 +10,9 @@
 # Studies
 ## Beyond Mimicry & Binary Limitations of AI
 
-[Learn More](https://farorg.github.io/beyond_mimicry-binary_lim_of_ai/)
+[Learn More](https://farorg.github.io/Beyond%20Mimicry%20and%20Binary%20Limitations%20of%20Artificial%20Intelligence/)
 
 ## Modern Measurement for Intelligent
 
 [Learn More](https://farorg.github.io/mmi)
+
