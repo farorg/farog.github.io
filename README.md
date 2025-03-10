@@ -5,12 +5,19 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
-# Studies
-## Beyond Mimicry & Binary Limitations of AI
-[Learn More](https://farorg.github.io/bm&bloai)
+# Resource
 
 ## Modern Measurement for Intelligence
 [Learn More](https://farorg.github.io/mmi)
+
+# Studies
+---
+
+## Beyond Mimicry & Binary Limitations of AI
+[Learn More](https://farorg.github.io/bm&bloai)
+
+## A Comprehensive Approach to Overcoming the Limitations of Traditional IQ Testing Through Assessment of Diverse Cognitive Domains, Modern Measurement of Intelligence (MMI).
+[The project is actively underway and progressing as planned.]()
 
 ## An Examination of the Impact of Jargon Usage on Learning Outcomes in Mathematics, Science, and Computer Instruction.
 [The project is actively underway and progressing as planned.]()
@@ -26,3 +33,5 @@
 
 ## A New Framework for Enhancing Computational Intelligence Beyond Binary Mimicry and Human Knowledge Replication, Introducing Digital Omni.
 [The project is actively underway and progressing as planned.]()
+
+---
