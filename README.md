@@ -5,14 +5,24 @@
 <link rel="preload" as='style' href="https://actwu.github.io/md.css"/>
 <link rel="stylesheet" href="https://actwu.github.io/md.css"/>
 
-###### written by far org.
-
 # Studies
 ## Beyond Mimicry & Binary Limitations of AI
-
 [Learn More](https://farorg.github.io/bm&bloai)
 
 ## Modern Measurement for Intelligence
-
 [Learn More](https://farorg.github.io/mmi)
 
+## An Examination of the Impact of Jargon Usage on Learning Outcomes in Mathematics, Science, and Computer Instruction.
+[The project is actively underway and progressing as planned.]()
+
+## A Quantitative Analysis of User Interface Interaction Speed and Performance: Comparing ISE, Assembly, C, Python, and Java
+[The project is actively underway and progressing as planned.]()
+
+## Exploring the New Mathematical Generative (NMG) Framework, Addressing the Limitations of Original Math Standards (OMS) Through Dynamic and Non-Recursive Solutions
+[The project is actively underway and progressing as planned.]()
+
+## An Analysis of the Relative Nature of Time and the Distances Between Past, Present, and Future, The Time Revine Theorem (TRT).
+[The project is actively underway and progressing as planned.]()
+
+## A New Framework for Enhancing Computational Intelligence Beyond Binary Mimicry and Human Knowledge Replication, Introducing Digital Omni.
+[The project is actively underway and progressing as planned.]()
