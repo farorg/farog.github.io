@@ -7,7 +7,7 @@
 
 # Resources
 
-## Modern Measurement for Intelligence
+## Introduction to Modern Measurement for Intelligence
 [Learn More](https://farorg.github.io/mmi)
 
 # Studies
