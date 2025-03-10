@@ -12,7 +12,7 @@
 
 [Learn More](https://farorg.github.io/bm&bloai)
 
-## Modern Measurement for Intelligent
+## Modern Measurement for Intelligence
 
 [Learn More](https://farorg.github.io/mmi)
 
